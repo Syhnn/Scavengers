@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 21ea9d5c034d94540a43f7ea02c96ae0
+timeCreated: 1446135274
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - foodText: {instanceID: 0}
+  - moveSound1: {instanceID: 0}
+  - moveSound2: {instanceID: 0}
+  - eatSound1: {instanceID: 0}
+  - eatSound2: {instanceID: 0}
+  - drinkSound1: {instanceID: 0}
+  - drinkSound2: {instanceID: 0}
+  - gameOverSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
